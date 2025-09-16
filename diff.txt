@@ -1,0 +1,5 @@
+index.html         → Registration page
+quiz.html          → Quiz page
+leaderboard.html   → Leaderboard page
+style.css          → Styling
+script.js          → JavaScript logic
